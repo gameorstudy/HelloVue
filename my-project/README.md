@@ -1,3 +1,5 @@
+codes learnt from vuemastery intro to vue.js
+
 # my-project
 
 > A Vue.js project
